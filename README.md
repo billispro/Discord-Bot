@@ -39,12 +39,12 @@ A feature-rich Discord bot built with discord.js that combines utility functions
 
 3. **Configure Environment**
 Create a `.env` file:  
-```
-TOKEN=your_token_here
-CLIENT_ID=your_client_id_here
-GUILD_ID=your_guild_id_here
-MONGODB_URI=mongodb://your_mongo_uri_here
-```
+    ```
+    TOKEN=your_token_here
+    CLIENT_ID=your_client_id_here
+    GUILD_ID=your_guild_id_here
+    MONGODB_URI=mongodb://your_mongo_uri_here
+    ```
 
 4. **Run the Bot**
    ```bash
